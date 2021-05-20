@@ -1,13 +1,4 @@
-Application Screens Images:
-
-![](images/you-picture.png)
-![](images/you-picture.png)
-![](images/you-picture.png)
-![](images/you-picture.png)
-![](images/you-picture.png)
-
-
-Project Description:
+## Project Description:
 1. This application takes 5 inputs - age, gender, height, weight and activity level of an individual.
 2. Based on above paramaters it makes two calculations - 
      a) BMI (output - personality level) 
@@ -16,7 +7,7 @@ Project Description:
 4. The user can also get the veg and non veg diet plan separately. 
 
 
-Guidelines:
+## Guidelines:
 1. In the projectDietPlan folder you can find the source code written in python and php 
    a) python code - dietplanx.py
    b) php code -  index.php
@@ -24,3 +15,15 @@ Guidelines:
    a) Add the projectDietPlan folder into xampp/htdocs/
    b) Change the global variable "BASE_URL" value from 'https://webdietplan.000webhostapp.com/index.php/' 
       to 'http://localhost/projectDietPlan/index.php'
+
+Application Screens Images:
+
+<div style="float:right; margin:auto;">
+<img src="images/image1.jpg" height="525">
+<img src="images/image2.jpg" height="525">
+<img src="images/image3.jpg" height="525">
+<img src="images/image4.jpg" height="525">
+<img src="images/image5.jpg" height="525">
+<img src="images/image6.jpg" height="525">
+<img src="images/image7.jpg" height="525">
+</div>     
